@@ -19,9 +19,7 @@ public class DataTablewithExample {
 		 
 		 driver.manage().window().maximize();
 		 Thread.sleep(5000);
-		 
-	    
-	}
+		 	}
 
 
 	
